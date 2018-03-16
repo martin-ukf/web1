@@ -6,4 +6,6 @@ Musíme dodržať tento postup:
 3. vytvoriť readme 
 4. vytvoriť vzdialený repozitár
 5. zosynchronizovať lokálny a vzdialený repozitár
+6. trénovať, trénovať, trénovať
+
 
